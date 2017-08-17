@@ -6,8 +6,7 @@ int main()
 	wiringPiSetup();    // inicia a biblioteca WiringPi
 	pinMode(1, OUTPUT); // configura o pino 1 como saída
 
-     printf("Exemplo 1 - Pisca LED\n"); //imprime mensagem na tela
-
+	printf("Exemplo 1 - Pisca LED\n"); //imprime mensagem na tela
 	
 	while(1)
 	{
