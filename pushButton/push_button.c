@@ -10,7 +10,7 @@ int main()
 	
 	int estadoLED = 0;
 
-    printf("Exemplo 2 - Controle do LED com chave push button\n"); //imprime mensagem na tela
+	printf("Exemplo 2 - Controle do LED com chave push button\n"); //imprime mensagem na tela
 	
 	while(1)
 	{
