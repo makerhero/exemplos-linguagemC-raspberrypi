@@ -2,6 +2,7 @@
 
 # Programação em Linguagem C com Raspberry Pi
 
-![Linguagem C Raspberry](http://libertyshoewarehouse.com/mt-content/uploads/2016/12/comingsoon.png)
+[//]: # (![Linguagem C Raspberry](http://libertyshoewarehouse.com/mt-content/uploads/2016/12/comingsoon.png))
+![Linguagem C Raspberry](https://www.filipeflop.com/wp-content/uploads/2017/09/IMAGEM-DESTAQUE-1.png)
 
-### Em breve tutorial no <span style="color:blue"></span>[Blog da FILIPEFLOP](https://www.filipeflop.com/blog/)!
+### Acesse o tutorial no <span style="color:blue"></span>[Blog da FILIPEFLOP](https://www.filipeflop.com/blog/linguagem-c-com-raspberry-pi/) para mais informações sobre este projeto.
